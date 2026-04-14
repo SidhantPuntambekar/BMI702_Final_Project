@@ -1,5 +1,6 @@
 # Predictive and Generative Modeling of Therapeutic Antibody Developability
 > Using fine-tuned protein language models to predict and optimize antibody developability from sequence alone.
+
 GitHub Repo for BMI702 Final Project, Sidhant Puntambekar and Jack Hwang
 
 ## Overview
