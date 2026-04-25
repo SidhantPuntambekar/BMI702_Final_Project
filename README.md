@@ -10,7 +10,7 @@ Therapeutic antibody development is costly and time-intensive, with many candida
 - **(Task A)** Predict developability metrics and downstream therapeutic approval from amino acid sequence alone
 - **(Task B)** Enable lead optimization of developability properties through guided CDR3 sequence generation
 
-By operating from sequence only (no experimental assays required), these tools are designed for early-stage lead evaluation — before expensive clinical trials.
+By operating from sequence only (no experimental assays required), these tools are designed for early-stage lead evaluation.
 
 ---
 
