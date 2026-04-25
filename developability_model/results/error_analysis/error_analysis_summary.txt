@@ -1,0 +1,9 @@
+
+Error Analysis Key Findings:
+1. Isotype: [Check output above for whether errors cluster by isotype]
+2. CDR3 length: [Check Mann-Whitney test results above]
+3. Hardest metrics: SEC_%Monomer and Tm2 have near-zero Spearman ρ,
+   likely due to low target variance (SEC_%Monomer) and measurement
+   noise (Tm2). These are also hard for the p-IgGen baseline.
+4. Sample size partially explains performance — targets with <100 samples
+   tend to have lower ρ.
